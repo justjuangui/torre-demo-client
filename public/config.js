@@ -1,0 +1,2 @@
+window.API_URL = 'http://localhost:4000/cubejs-api/v1';
+window.CUBEJS_TOKEN = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2MTgyNjY3NDEsImV4cCI6MTYxODM1MzE0MX0.t9CTCwLvElHnOhcfrfl7M64U1apQOjGXqV4XtAnOgNA';
